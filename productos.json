@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "El señor de lo anillos",
+    "price": 5000,
+    "thumbnail": "https://i.ibb.co/ZKgRL18/20061512.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Demon Slayer",
+    "price": 4500,
+    "thumbnail": "https://i.ibb.co/sFGWN2k/thumb-1920-1007550.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Naruto",
+    "price": 3200,
+    "thumbnail": "https://i.ibb.co/tM7066P/378271.jpg"
+  },
+  {
+    "id": 4,
+    "title": "El señor de lo anillos",
+    "price": 5000,
+    "thumbnail": "https://i.ibb.co/ZKgRL18/20061512.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Demon Slayer",
+    "price": 4500,
+    "thumbnail": "https://i.ibb.co/sFGWN2k/thumb-1920-1007550.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Naruto",
+    "price": 3200,
+    "thumbnail": "https://i.ibb.co/tM7066P/378271.jpg"
+  },
+  {
+    "id": 7,
+    "title": "El señor de lo anillos",
+    "price": 5000,
+    "thumbnail": "https://i.ibb.co/ZKgRL18/20061512.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Demon Slayer",
+    "price": 4500,
+    "thumbnail": "https://i.ibb.co/sFGWN2k/thumb-1920-1007550.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Naruto",
+    "price": 3200,
+    "thumbnail": "https://i.ibb.co/tM7066P/378271.jpg"
+  }
+]
